@@ -20,6 +20,7 @@ Hi 👋 I’m Nishandhini Ravi, currently pursuing Data Science, with a strong i
 I enjoy working on end-to-end projects that involve data preprocessing, model development, and web-based implementation to solve real-world problems.
 
 🧠 Technical Skills
+
 🔹 Programming Languages
 
 Python
@@ -47,6 +48,7 @@ Keras
 Scikit-learn
 
 📌 Key Projects
+
 🔸 1. Web-Based Tamil OCR and Multilingual Text-to-Speech System for Inclusive Storytelling
 
 Developed a web-based system to extract Tamil text from images and PDFs using OCR techniques.
