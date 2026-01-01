@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👩‍💻 About Me
+
+Hi 👋 I’m Nishandhini Ravi, a Data Science graduate with a strong interest in AI, Machine Learning, Deep Learning, and applied data-driven solutions.
+I enjoy building end-to-end projects that combine model development, web deployment, and real-world impact.
